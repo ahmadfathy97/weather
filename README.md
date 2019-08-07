@@ -2,5 +2,5 @@
 ![logo](./images/fav.png)
 ### _simple weather app_
 ---
-wanna see [Elite Chat](http://wather.netlify.com "weather") ?
+wanna see [weather today](http://weather-2d.netlify.com "weather-2d") ?
 ---
